@@ -243,7 +243,16 @@ Then log in again to receive a fresh JWT.
 - Add Docker support
 - Add stronger password validation
 
-https://github.com/MohammadAthar786/Task-Manager/blob/master/screenshots/Screenshot%202026-06-16%20181502.png
+
+![Image]https://github.com/MohammadAthar786/Task-Manager/blob/master/screenshots/Screenshot%202026-06-16%20181502.png
+
+![Image]https://github.com/MohammadAthar786/Task-Manager/blob/master/screenshots/Screenshot%202026-06-16%20181604.png
+
+![Image]https://github.com/MohammadAthar786/Task-Manager/blob/master/screenshots/Screenshot%202026-06-16%20181650.png
+
+![Image]https://github.com/MohammadAthar786/Task-Manager/blob/master/screenshots/Screenshot%202026-06-16%20181725.png
+
+![Image]https://github.com/MohammadAthar786/Task-Manager/blob/master/screenshots/Screenshot%202026-06-16%20181804.png
 
 
 
